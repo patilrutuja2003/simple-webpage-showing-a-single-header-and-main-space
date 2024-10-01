@@ -1,20 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.header {
-  padding: 60px;
-  text-align: center;
-  background-color: #87CEEB;
-}
-</style>
-</head>
-<body>
-
-<div class="header">
-  <h1>Header</h1>
-  <p>Main content goes here.</p>
-</div>
-
-</body>
-</html>
+README for Basic Header Layout
+This project features a simple HTML layout with a header section styled using CSS. The header includes a title and a brief description, set against a sky-blue background to create a visually appealing introduction to the main content. This code serves as a foundational example for kickstarting web development projects, demonstrating the basic structure of an HTML document and the application of CSS for styling. It can be easily customized to fit different projects and can serve as a starting point for more complex layouts.
